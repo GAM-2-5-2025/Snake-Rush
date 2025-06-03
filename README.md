@@ -49,18 +49,6 @@ Trenutni rezultat prikazuje se u gornjem lijevom kutu ekrana tijekom cijele igre
   * Instalirana Pygame knjižnica
   * Minimalno 4 GB RAM-a
 
-## **Screencast**
-
-Screencast će prikazivati:
-
-* Uvodni zaslon i početak igre
-* Kretanje zmije, skupljanje hrane i povećavanje rezultata
-* Korištenje gumba za pauzu
-* Završetak igre s prikazom bodova
-* Ponovno pokretanje igre
-
-Ukupno trajanje videa: do 8 minuta. Video će koristiti standardne codece i bit će u MP4 formatu.
-
 ## **Izvorni kod**
 
 Kompletan Python kod nalazi se u priloženoj `.py` datoteci. Uz kod, priložene su i sve slike korištene u igri (hamburger.png, kola.png, pomfrit.png, happymeal.png, chickenbox.png, sladoled.png, head.jpg.png, body.jpg.png, tail.jpg.png, zmija.png, pauza.png), te screencast datoteka.
